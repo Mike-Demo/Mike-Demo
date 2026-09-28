@@ -26,7 +26,7 @@ AI agent tooling on the side.
 ## Find me
 
 - 🌐 [mikedemo.com](https://mikedemo.com)
-- 🐦 [@MikeDemo on X](https://x.com/MikeDemo)
+- 🐦 [@Mike_Demo on X](https://x.com/Mike_Demo)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mikedemopoulos)
 - 📧 hey.demo@mikedemo.email
 
